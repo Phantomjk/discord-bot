@@ -1,7 +1,7 @@
 [
   {
     "message_title": "🎨 Choose Your Color",
-    "channel_name": "roles",
+    "channel_id": "1371961717394899045",
     "roles": {
       "🌸": "Pink",
       "💜": "Purple",
@@ -17,7 +17,7 @@
   },
   {
     "message_title": "🇦🇪 Choose Your Emirate",
-    "channel_name": "roles",
+    "channel_id": "1371961717394899045",
     "roles": {
       "🚓": "AUH",
       "🌆": "DXB",
@@ -31,7 +31,7 @@
   },
   {
     "message_title": "🧠 Choose Your Dev Role",
-    "channel_name": "roles",
+    "channel_id": "1371961717394899045",
     "roles": {
       "💻": "Web Developer",
       "🖋️": "Writer",
@@ -45,7 +45,7 @@
   },
   {
     "message_title": "🚻 Choose Your Gender",
-    "channel_name": "roles",
+    "channel_id": "1371961717394899045",
     "roles": {
       "♂️": "Male",
       "♀️": "Female"
